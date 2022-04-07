@@ -1,3 +1,0 @@
-"C:\Program Files\JetBrains\CLion 2021.2.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\git_example_image_viewer.dir/objects.a
-C:\MinGW\bin\ar.exe cr CMakeFiles\git_example_image_viewer.dir/objects.a @CMakeFiles\git_example_image_viewer.dir\objects1.rsp
-C:\MinGW\bin\g++.exe -O3 -DNDEBUG -Wl,--whole-archive CMakeFiles\git_example_image_viewer.dir/objects.a -Wl,--no-whole-archive -o git_example_image_viewer.exe -Wl,--out-implib,libgit_example_image_viewer.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\git_example_image_viewer.dir\linklibs.rsp
