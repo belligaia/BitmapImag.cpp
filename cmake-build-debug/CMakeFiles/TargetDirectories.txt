@@ -1,3 +1,0 @@
-C:/Users/gaiab/Downloads/E1_git_example_image_viewer_exercise (1)/E1_git_example_image_viewer_exercise/cmake-build-debug/CMakeFiles/git_example_image_viewer.dir
-C:/Users/gaiab/Downloads/E1_git_example_image_viewer_exercise (1)/E1_git_example_image_viewer_exercise/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/gaiab/Downloads/E1_git_example_image_viewer_exercise (1)/E1_git_example_image_viewer_exercise/cmake-build-debug/CMakeFiles/rebuild_cache.dir
